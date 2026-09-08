@@ -94,3 +94,6 @@ This is a transparent/retrospective analysis plan (analyses were conducted befor
 consistent with the author's decision not to post a preprint). It is provided for methodological
 transparency and to lock the analysis decisions publicly. OSF-proper registration would require a
 separate OSF login and can be added later if desired.
+
+**Archived snapshot (citable):** this protocol and its companion analysis code are archived with a
+Zenodo DOI: **10.5281/zenodo.22663699** (https://doi.org/10.5281/zenodo.22663699).
