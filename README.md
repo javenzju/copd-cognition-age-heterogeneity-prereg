@@ -28,4 +28,4 @@ The correct GSCAN smoking-initiation instrument is `ieu-b-4877`. The legacy `ieu
 
 ## Data availability
 
-GWAS summary statistics: OpenGWAS (https://gwas.mrcieu.ac.uk/). This repository is archived with a DOI via Zenodo (GitHub release).
+GWAS summary statistics: OpenGWAS (https://gwas.mrcieu.ac.uk/). This repository is archived and citable via Zenodo: **DOI 10.5281/zenodo.22663699** (https://doi.org/10.5281/zenodo.22663699).
