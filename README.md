@@ -4,6 +4,12 @@ This repository contains the preregistration protocol and the reproducible analy
 
 > *Genetically predicted lower lung function and poorer cognitive function: a two-sample Mendelian randomization study*
 
+## Authors
+
+- **Yi Xu** (first author) — The First Clinical Medical College, Zhejiang Chinese Medical University, Hangzhou, China
+- **Yan Chen** — Department of General Practice, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China
+- **Jianfeng Wang** (corresponding author) — Department of Respiratory Diseases, The First Affiliated Hospital of Zhejiang Chinese Medical University (Zhejiang Provincial Hospital of Chinese Medicine), Hangzhou, China — 2001m@163.com
+
 ## Preregistration
 
 - `preregistration_protocol.md` — original analysis plan (retrospective preregistration).
